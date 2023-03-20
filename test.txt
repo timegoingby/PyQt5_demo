@@ -1,1 +1,2 @@
-tests
+import numpy
+print("test")
